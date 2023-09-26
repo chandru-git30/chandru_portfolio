@@ -17,7 +17,7 @@ My portfolio showcasing skills, projects, and expertise.🚀
 
 - **Career Accelerator:** A must-have for developers looking to excel in their field, unlocking new opportunities and showcasing their passion for coding. Start building your portfolio website today!
 
-## How to make your own porfolio using this repository
+## How to make your own porfolio using this repository 🔧
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/chandru-git30/chandru_portfolio.git
