@@ -3,7 +3,7 @@ My portfolio showcasing skills, projects, and expertise.🚀
 
 🔥 Check out my captivating portfolio website [here](https://chandru-git30.github.io/chandru_portfolio/) and embark on a journey through my tech adventures!🚀
 
-## Why Portfolio? 🌟
+## Why have a Portfolio? 🌟
 
 - **Showcase Expertise:** A portfolio website acts as a dynamic digital resume, spotlighting a developer's skills, projects, and achievements.
 
@@ -16,3 +16,5 @@ My portfolio showcasing skills, projects, and expertise.🚀
 - **Networking Power:** It aids in networking, personal branding, and career growth.
 
 - **Career Accelerator:** A must-have for developers looking to excel in their field, unlocking new opportunities and showcasing their passion for coding. Start building your portfolio website today!
+
+## How to make you
