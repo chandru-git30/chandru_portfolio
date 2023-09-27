@@ -270,7 +270,7 @@ input, select, textarea {
     }
 @media screen and (max-width: 550px) {
 	.mobileadjust{
-		margin: 254px 0px 50px 0px !important
+		margin: 315px 0px 50px 0px !important
 	}
 }
 @media screen and (max-width: 550px) {
